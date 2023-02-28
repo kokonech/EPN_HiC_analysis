@@ -6,7 +6,9 @@ Required environment: Linux, Python, R
 
 Tool details (versions, etc) are provided in launch bash commands, for questions please create an issue or contact repo owner directly. 
 
-## HiC data analysis
+IGV online track sessions and links to other materials are provided via [wiki](../../wiki)
+
+## HiC data analysis overview
 
 ### Initial processing
 
