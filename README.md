@@ -19,6 +19,10 @@ Generate JuiceBox output (JB views are used for mulitple figures e.g. Figure 1f,
 Call TADs via TopDom:
 *hiC/runTopDom.sh*
 
+Unsupervised clustering of contacts (e.g. Figure 1c):
+*hiC/clustering/human_tumor_hic_clustering.ipynb*
+
+
 ### Loops analysis
 
 Call loops via FitHiC2:
