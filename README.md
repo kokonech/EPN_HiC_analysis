@@ -16,8 +16,14 @@ Generate HiC-pro analysis configs + input reads data:
 Generate JuiceBox output (JB views are used for mulitple figures e.g. Figure 1f,2a):
 *hiC/convertToJuicebox.sh*
 
+Summarize QC:
+*hiC/collectStats.py*
+
 Call TADs via TopDom:
 *hiC/runTopDom.sh*
+
+TADs similarity inspeciton:
+*hiC/tadsAnalysis.R*
 
 Unsupervised clustering of contacts (e.g. Figure 1c):
 *hiC/clustering/human_tumor_hic_clustering.ipynb*
