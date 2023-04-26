@@ -1,6 +1,6 @@
 # Ependymoma tumors HiC data analysis
 
-The project contains analysis code for the ependymoma HiC study
+The project contains analysis code for the ependymoma HiC study: https://www.nature.com/articles/s41467-023-38044-0
 
 Required environment: Linux, Python, R
 
